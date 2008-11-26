@@ -1,0 +1,17 @@
+syntax:glob
+.svn
+**/*.pyc
+.settings
+.hgignore
+.project
+.pydevproject
+build
+dist
+extra
+test*
+*.egg-info
+.ssh/*
+demoCA/*
+**/dropin.cache
+*.cfg
+storage
